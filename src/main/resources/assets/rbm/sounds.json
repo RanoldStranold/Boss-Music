@@ -1,0 +1,18 @@
+{
+  "music.wither": {
+    "sounds": [
+      {
+        "name": "rbm:boss/wither",
+        "stream": true
+      }
+    ]
+  },
+  "music.ender_dragon": {
+    "sounds": [
+      {
+        "name": "rbm:boss/ender_dragon",
+        "stream": true
+      }
+    ]
+  }
+}
